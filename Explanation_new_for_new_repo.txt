@@ -1,0 +1,6 @@
+I was unable to push my code on my original repository due to the many changes that i had done without commiting over the week
+There is a screenshot attached as proof.
+dsa_formative
+https://github.com/lilalajemima/dsa_formative.git 
+
+https://github.com/lilalajemima/dsa_matrice/blob/main/image.png 
